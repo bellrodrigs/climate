@@ -6,6 +6,10 @@ Este projeto de estudo que tem como objetivo permitir que o usuário pesquise so
 
 ## Demonstração
 
+Projeto temporariamente disponível em
+[Netlify](https://luminous-beijinho-8044c9.netlify.app/)
+
+
 ![Desktop](desktopgif.gif)
 
 
